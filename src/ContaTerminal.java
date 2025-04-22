@@ -7,7 +7,7 @@ public class ContaTerminal {
         String agencia, nomeCliente;
         int saldo;
         
-        // Criação de um objeto Scanner para ler a entrada do usuário
+        // Criação de projeto para Atividade Simulando Uma Conta Bancária Através Do Terminal/Console
 
         System.out.println("Por favor, digite o seu nome");
         Scanner scanner = new Scanner(System.in);
